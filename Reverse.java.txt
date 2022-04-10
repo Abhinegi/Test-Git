@@ -10,7 +10,7 @@ reverse = reverse * 10 + remainder;
 number = number/10;  
 }  
 
-//Git commit message
-System.out.println("Reversed number is: " + reverse);  
+//Added some comments
+System.out.println("Reversed number are: " + reverse);  
 }  
 }  
