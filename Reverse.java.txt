@@ -9,6 +9,8 @@ int remainder = number % 10;
 reverse = reverse * 10 + remainder;  
 number = number/10;  
 }  
+
+//Git commit message
 System.out.println("Reversed number is: " + reverse);  
 }  
 }  
