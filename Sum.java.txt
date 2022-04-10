@@ -1,5 +1,4 @@
 class Sum{
 main(){
-    System.out.print("Sum are : "+10);
 }
 }

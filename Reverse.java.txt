@@ -9,8 +9,6 @@ int remainder = number % 10;
 reverse = reverse * 10 + remainder;  
 number = number/10;  
 }  
-
-//Added some comments
-System.out.println("Reversed number are: " + reverse);  
+System.out.println("Reversed number is: " + reverse);  
 }  
 }  

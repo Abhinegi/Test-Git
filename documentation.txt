@@ -1,3 +1,2 @@
 -> Reverse of number
--> Sum of number (Numeric)
--> planing to add new features
+-> Sum of number
