@@ -10,6 +10,7 @@ reverse = reverse * 10 + remainder;
 number = number/10;  
 }  
 //Changes in branch
+// Commit added again
 System.out.println("Reversed number is: " + reverse);  
 }  
 }  
